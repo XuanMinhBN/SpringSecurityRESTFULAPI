@@ -1,8 +1,8 @@
 #Database
 DB_HOST: localhost
 DB_DATABASE_NAME: securedoc
-DB_USERNAME: root
-DB_PASSWORD: 12345678
+DB_USERNAME: //*****
+DB_PASSWORD: //******
 DB_PORT: 3306
 
 #Server
@@ -12,8 +12,8 @@ ACTIVE_PROFILE: prod
 #Email Config
 EMAIL_HOST: smtp.gmail.com
 EMAIL_PORT: 587
-EMAIL_ID: xuannguyenminh3@gmail.com
-EMAIL_PASSWORD: minhxuan123456
+EMAIL_ID: //*******
+EMAIL_PASSWORD: //******
 VERIFY_EMAIL_HOST: http://localhost:8000
 
 JWT_EXPIRATION: 432_000_000
