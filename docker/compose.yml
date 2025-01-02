@@ -39,8 +39,8 @@ services:
     image: mysql:9.1.0
     restart: always
     environment:
-      MYSQL_DATABASE: securedoc
-      MYSQL_ROOT_PASSWORD: 12345678
+      MYSQL_DATABASE: //******
+      MYSQL_ROOT_PASSWORD: //******
     ports:
       - '3307:3306'
     
